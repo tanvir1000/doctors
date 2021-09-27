@@ -1,0 +1,10 @@
+.header{
+      background-color: khaki;
+      width: 75%;
+      /* margin-left:  18px;
+       */
+       margin: auto;
+      color: black;
+      border: 2px solid olive;
+      border-radius: 15px;
+}

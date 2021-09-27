@@ -1,0 +1,45 @@
+.display{
+      
+      display:flex;
+      grid-template-columns: repeat(3,1fr);
+      margin: 5px;
+     
+}
+.doctors-container{
+      width: 300px;
+      height: 500px;
+      border-radius: 10px;
+      background-color: rgba(208, 135, 250, 0.404);
+      text-align: center;
+      margin: 15px;
+      padding: 10px;
+}
+.doctors-container img{  
+      display: block;
+      margin-left: 85px;
+      margin-right: 75px;    
+      width: 50%;
+      border-radius: 50%;
+      
+}
+.doctors-container button{
+      background-color: brown;
+      border: 1px solid gray;
+      padding: 10px;
+      width: 200px;
+      color: white;
+}
+.social-icon{
+      background-color: chocolate;
+      border: 1px solid darkblue;
+      width: 100px;
+}
+.appoinment{
+     
+      color:white;
+}
+.img-c{
+      margin: 0px 75px 0px 85px;
+      height: 150px;
+      width: 145.61px;
+}
