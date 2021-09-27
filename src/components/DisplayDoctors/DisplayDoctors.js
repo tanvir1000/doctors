@@ -26,7 +26,7 @@ const DisplayDoctors = (props) => {
 				<h4>Fees :${Fees}</h4>
 				<button onClick={() => props.handelCount(props.doctor)}>{element} Appoinment</button>
 				
-				<button className="social-icon" onClick={() => props.handelCount(props.doctor)}>{fb} </button>
+				<button className="social-icon" >{fb} </button>
 			</div>
 		</div>
 	);
